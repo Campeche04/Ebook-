@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Inteligencia Artificial - Fundamentos, Aplicaciones y Futuro</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #0f172a;
+      color: #f8fafc;
+      line-height: 1.6;
+    }
+    header {
+      background: linear-gradient(90deg, #0ea5e9, #6366f1);
+      padding: 60px 20px;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 2.8em;
+      margin: 0 0 10px;
+    }
+    header p {
+      font-size: 1.2em;
+      margin: 0 0 30px;
+    }
+    .cta {
+      background: #22c55e;
+      color: #fff;
+      padding: 15px 25px;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: bold;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    h2 {
+      color: #38bdf8;
+    }
+    .section {
+      margin-bottom: 50px;
+    }
+    footer {
+      background: #1e293b;
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9em;
+      color: #94a3b8;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Descubre el Poder de la Inteligencia Artificial</h1>
+    <p>Desde sus Fundamentos hasta su Futuro Imparable</p>
+    <a href="#" class="cta">Descargar el Ebook Gratis</a>
+  </header>
+
+  <section class="section">
+    <h2>¿Qué es la Inteligencia Artificial?</h2>
+    <p>
+      Aprende qué es la IA, cómo funciona, sus diferencias con el aprendizaje automático, su historia y evolución hasta convertirse en la tecnología disruptiva del presente.
+    </p>
+  </section>
+
+  <section class="section">
+    <h2>Aplicaciones Reales de la IA</h2>
+    <p>
+      Descubre cómo la IA transforma sectores como salud, finanzas, educación, industria y marketing con ejemplos prácticos y actuales.
+    </p>
+  </section>
+
+  <section class="section">
+    <h2>El Futuro de la Inteligencia Artificial</h2>
+    <p>
+      Explora lo que viene: IA generativa, ética, regulación, el futuro del trabajo y las tendencias para los próximos años.
+    </p>
+  </section>
+
+  <section class="section">
+    <h2>¿Para Quién es Este Contenido?</h2>
+    <p>
+      Para todo público: emprendedores, estudiantes, docentes, curiosos o profesionales que quieren entender y aplicar la IA desde cero.
+    </p>
+  </section>
+
+  <section class="section">
+    <h2>¿Qué Obtendrás?</h2>
+    <p>
+      Un ebook ilustrado con más de 60 páginas, casos reales, conceptos clave y una guía clara para aprender IA sin tecnicismos.
+    </p>
+    <a href="#" class="cta">Quiero el Ebook Gratuito</a>
+  </section>
+
+  <footer>
+    © 2025 Inteligencia Artificial para Todos. Todos los derechos reservados.
+  </footer>
+</body>
+</html>
